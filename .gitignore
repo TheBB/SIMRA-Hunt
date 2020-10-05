@@ -1,0 +1,8 @@
+/gen2.dat
+/gen3.dat
+/*.res
+/*.dat
+*.vtk
+*.vtu
+/inputlist.mod
+/ic_bc
